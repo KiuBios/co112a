@@ -10,4 +10,5 @@
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
 Fill.asm & mult.asm 參考 https://github.com/cccbook/cpu2os (稍微修改且已完全理解) 
+
 Memory.hdl 參考 https://github.com/cccbook/cpu2os  (使用ChatGPT輔助理解)
