@@ -11,4 +11,4 @@
 
 Fill.asm & mult.asm 參考 https://github.com/cccbook/cpu2os (稍微修改且已完全理解) 
 
-Memory.hdl 參考 https://github.com/cccbook/cpu2os  (使用ChatGPT輔助理解)
+Memory.hdl 參考 https://github.com/cccbook/cpu2os  (使用ChatGPT輔助理解，已完全理解)
