@@ -11,6 +11,6 @@
 
 Fill.asm & mult.asm 參考 https://github.com/cccbook/cpu2os/tree/master/03-nand2tetris/04 (部分修改，已完全理解) 
 
-Memory.hdl 參考 https://github.com/cccbook/cpu2os  (使用ChatGPT輔助理解，已完全理解)
+Memory.hdl 參考 https://github.com/cccbook/cpu2os/blob/master/03-nand2tetris/05/Memory.hdl  (使用ChatGPT輔助理解，已完全理解)
 
-cladder8.v 參考
+cladder8.v 參考 https://github.com/cccbook/cpu2os/blob/master/A2-Verilog/01-basic/cladder4.v
