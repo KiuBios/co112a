@@ -44,7 +44,7 @@
 // goto FOREVER
 // --------------------------
 
-(FOREVER)
+(INFINITE_LOOP)
 // arr = SCREEN
 	@SCREEN
 	D=A
@@ -102,6 +102,6 @@
 	0; JMP
 
 (ENDLOOP)
-	@FOREVER
+	@INFINITE_LOOP
 	0; JMP
 	
