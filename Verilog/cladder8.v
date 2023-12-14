@@ -33,7 +33,7 @@ module main;
   wire signed [7:0] sum;
   wire c_out;
 
-  cladder8 DUT (sum, cout, pg, gg, a, b, 0);
+  cladder8 DUT (sum, cout, pg, gg, a, b, 1b'0);
 
   initial begin
     a = 5;
