@@ -44,7 +44,7 @@ module main;
 
   initial
   begin
-    a = 6;
+    a = 5;
     b = -3;
     $monitor("%dns monitor: a=%d b=%d sum=%d", $stime, a, b, sum);
   end
